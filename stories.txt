@@ -1,0 +1,8 @@
+As a stock keeper
+When some stock runs out I need to be notified
+So that I can request the Incoming Shipping Manager creates a new order
+
+As an Incoming Shipping Manager
+When I am told that stock has run out, I need to order new stock
+So that the stock can be re-filled
+

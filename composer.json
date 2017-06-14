@@ -1,0 +1,19 @@
+{
+    "name": "asgrim/maruedr",
+    "description": "Cool DDD project",
+    "type": "project",
+    "require": {
+        "beberlei/assert": "^2.7",
+        "doctrine/dbal": "^2.5",
+        "psr/container": "^1.0",
+        "zendframework/zend-diactoros": "^1.4",
+        "behat/behat": "^3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Titcumb",
+            "email": "james@asgrim.com"
+        }
+    ]
+}
